@@ -2,8 +2,7 @@
 ## Udacity Nanodegree Program 2018
 ### My Projects:
 
-1. (https://github.com/RK308/Restaurant_App)
-1.  [Single Screen App](https://github.com/Berov/GoogleDeveloperChallengeScholarship-AndroidBasics-Nanodegree-2018/tree/master/FirstProject-SingleScreenApp)
+1. [Single Screen App](https://github.com/RK308/Restaurant_App)
 2. [Score Keeper App](https://github.com/Berov/GoogleDeveloperChallengeScholarship-AndroidBasics-Nanodegree-2018/tree/master/SecondProject-ScoreKeeperApp)
 3. [Quiz App](https://github.com/Berov/GoogleDeveloperChallengeScholarship-AndroidBasics-Nanodegree-2018/tree/master/ThirdProject-QuizApp)
 4. [Musical Structure App](https://github.com/Berov/GoogleDeveloperChallengeScholarship-AndroidBasics-Nanodegree-2018/tree/master/FourthProject-MusicalStructureApp)
@@ -14,4 +13,4 @@
 9. [Inventory App, Stage 2](https://github.com/Berov/GoogleDeveloperChallengeScholarship-AndroidBasics-Nanodegree-2018/tree/master/NinthProject-InventoryApp-Stage2)
 
 
-My certificate based on these projects: https://confirm.udacity.com/UDKULXYC
+My certificate from Udacity based on these projects: https://confirm.udacity.com/MHGDAHFT
