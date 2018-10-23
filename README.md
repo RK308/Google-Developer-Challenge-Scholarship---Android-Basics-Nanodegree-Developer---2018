@@ -1,1 +1,3 @@
-## Android Basics Nanodegree Program - 2018 - by Google
+# Android Basics Nanodegree by Google
+## Udacity Nanodegree Program 2018
+### My Projects:
