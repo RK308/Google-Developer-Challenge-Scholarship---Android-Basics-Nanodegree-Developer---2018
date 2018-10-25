@@ -3,8 +3,8 @@
 ### My Projects:
 
 1. [Single Screen App](https://github.com/RK308/Restaurant_App)
-2. [Score Keeper App](https://github.com/Berov/GoogleDeveloperChallengeScholarship-AndroidBasics-Nanodegree-2018/tree/master/SecondProject-ScoreKeeperApp)
-3. [Quiz App](https://github.com/Berov/GoogleDeveloperChallengeScholarship-AndroidBasics-Nanodegree-2018/tree/master/ThirdProject-QuizApp)
+2. [Score Keeper App]()
+3. [Quiz App]()
 4. [Musical Structure App](https://github.com/Berov/GoogleDeveloperChallengeScholarship-AndroidBasics-Nanodegree-2018/tree/master/FourthProject-MusicalStructureApp)
 5. [Tour Guide App](https://github.com/Berov/GoogleDeveloperChallengeScholarship-AndroidBasics-Nanodegree-2018/tree/master/FifthProject-TourGuideApp)
 6. [News App, Stage 1](https://github.com/Berov/GoogleDeveloperChallengeScholarship-AndroidBasics-Nanodegree-2018/tree/master/SixthProject-NewsApp)
