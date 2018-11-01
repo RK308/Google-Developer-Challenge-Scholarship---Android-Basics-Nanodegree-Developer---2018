@@ -6,7 +6,7 @@
 2. [Score Keeper App](https://github.com/RK308/CricketScoreKeeper)
 3. [Quiz App](https://github.com/RK308/QuizApp)
 4. [Musical Structure App](https://github.com/RK308/Music1App)
-5. [Tour Guide App]()
+5. [Tour Guide App](https://github.com/RK308/TourGuide)
 6. [News App, Stage 1]()
 7. [News App, Stage 2]()
 8. [Inventory App, Stage 1]()
